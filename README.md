@@ -35,7 +35,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gulp.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
