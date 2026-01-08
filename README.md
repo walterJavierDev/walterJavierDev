@@ -47,8 +47,6 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/bootstrap.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="33.33%" align="center">
         <span>Tailwind</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg">
@@ -57,6 +55,8 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <span>GSAP</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/greensock-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="33.33%" align="center">
         <span>Laravel</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/laravel.svg">
