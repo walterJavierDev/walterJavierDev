@@ -66,8 +66,8 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <img height="64px" src="https://cdn.svglogos.dev/logos/react.svg">
       </td>
       <td width="33.33%" align="center">
-        <span>Expo</span><br><br><br>
-        <img height="64px" src="https://cdn.svglogos.dev/logos/expo.svg">
+        <span>GSAP</span><br><br><br>
+        <img height="64px" src="https://cdn.svglogos.dev/logos/greensock-icon.svg">
       </td>
     </tr>
   </tbody>
