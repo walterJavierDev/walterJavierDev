@@ -18,21 +18,19 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
 <table width="100%">
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>Sass</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
