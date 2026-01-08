@@ -53,11 +53,11 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
       </td>
       <td width="25%" align="center">
         <span>React Native</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svglogos.dev/logos/react.svg">
       </td>
       <td width="25%" align="center">
         <span>Expo</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
+        <img height="64px" src="https://cdn.svglogos.dev/logos/expo.svg">
       </td>
     </tr>
   </tbody>
