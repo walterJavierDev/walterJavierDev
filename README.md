@@ -38,14 +38,26 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
   </tbody>
 </table>
 
-### 🧩 Backend
+### 🧩 Frameworks & Libraries
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React Native</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react-native.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Expo</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
       </td>
     </tr>
   </tbody>
