@@ -73,10 +73,22 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
   </tbody>
 </table>
 
-### 🗄️ Databases <img width="24" src="https://www.svgrepo.com/show/499816/database.svg" alt="database" />
+### 🗄️ Databases
 
-* **MySQL**
-* **PostgreSQL**
+<table width="100%">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
