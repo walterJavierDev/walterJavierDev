@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Javier Masis
+# 👋 Hi, I'm Walter Javier
 <figure>
   <img src="https://images.unsplash.com/photo-1697642438130-0158bc651cc3" alt="" />
 </figure>
