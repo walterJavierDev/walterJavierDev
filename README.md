@@ -80,7 +80,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
     <tr valign="top">
       <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>PostgreSQL</span><br><br><br>
