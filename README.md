@@ -15,7 +15,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
 
 ### 🎨 Frontend
 
-<table>
+<table width="100%">
   <tbody>
     <tr valign="top">
       <td width="50%" align="center">
