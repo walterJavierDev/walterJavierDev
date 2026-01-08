@@ -73,7 +73,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
   </tbody>
 </table>
 
-### 🗄️ Databases <img src="https://www.svgrepo.com/show/499816/database.svg" alt="database" />
+### 🗄️ Databases <img width="32" src="https://www.svgrepo.com/show/499816/database.svg" alt="database" />
 
 * **MySQL**
 * **PostgreSQL**
