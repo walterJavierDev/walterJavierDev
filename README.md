@@ -27,7 +27,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
     </tr>
-    tr valign="top">
+    <tr valign="top">
       <td width="50%" align="center">
         <span>Sass</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
