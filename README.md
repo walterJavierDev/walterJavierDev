@@ -44,14 +44,6 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
   <tbody>
     <tr valign="top">
       <td width="33.33%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="33.33%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-      <td width="33.33%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/bootstrap.svg">
       </td>
@@ -62,12 +54,20 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <img height="64px" src="https://cdn.svglogos.dev/logos/tailwindcss-icon.svg">
       </td>
       <td width="33.33%" align="center">
-        <span>React Native</span><br><br><br>
-        <img height="64px" src="https://cdn.svglogos.dev/logos/react.svg">
-      </td>
-      <td width="33.33%" align="center">
         <span>GSAP</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/greensock-icon.svg">
+      </td>
+      <td width="33.33%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svglogos.dev/logos/laravel.svg">
+      </td>
+      <td width="33.33%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="33.33%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
     </tr>
   </tbody>
