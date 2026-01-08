@@ -52,6 +52,14 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
       <td width="25%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svglogos.dev/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Tailwind</span><br><br><br>
+        <img height="64px" src="https://cdn.svglogos.dev/logos/tailwind.svg">
+      </td>
+      <td width="25%" align="center">
         <span>React Native</span><br><br><br>
         <img height="64px" src="https://cdn.svglogos.dev/logos/react.svg">
       </td>
