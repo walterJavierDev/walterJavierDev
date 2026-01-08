@@ -49,7 +49,7 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
       </td>
       <td width="33.33%" align="center">
         <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width="33.33%" align="center">
         <span>Bootstrap</span><br><br><br>
