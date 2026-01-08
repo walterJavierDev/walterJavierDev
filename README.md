@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Javier Masis
 <figure>
-  <img src="https://images.unsplash.com/photo-1626968361222-291e74711449" alt="" />
+  <img src="https://images.unsplash.com/photo-1697642438130-0158bc651cc3" alt="" />
 </figure>
 
 ## 🚀 Senior Frontend Developer | 15+ Years of Experience
