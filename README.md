@@ -86,7 +86,16 @@ I’ve worked on corporate websites, custom platforms, and long-term products, o
 
 ### 🧩 Backend
 
-* **PHP**
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🗄️ Databases
 
